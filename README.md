@@ -1,10 +1,10 @@
-### [thornintheass](https://github.com/thornintheass) zsh config
+### [thornintheass](https://github.com/vapenyk) zsh config
 
 ## Installation
 
 
 ```sh
-git clone --recurse-submodules https://github.com/thornintheass/butt-zsh-config.git ~/butt-zsh-config
+git clone --recurse-submodules https://github.com/vapenyk/butt-zsh-config.git ~/butt-zsh-config
 ```
 
 ```zsh
